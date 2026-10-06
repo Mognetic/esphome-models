@@ -1,10 +1,10 @@
 {
   "type": "micro",
-  "wake_word": "Stop1",
-  "author": "Kevin Ahrendt",
-  "website": "https://www.kevinahrendt.com/",
-  "model": "stop1.tflite",
-  "trained_languages": ["en"],
+  "wake_word": "sistema",
+  "author": "mda",
+  "website": " ",
+  "model": "sistema.tflite",
+  "trained_languages": ["ru"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
